@@ -1,8 +1,0 @@
-README.md
-setup.py
-llmbox/llmbox.egg-info/PKG-INFO
-llmbox/llmbox.egg-info/SOURCES.txt
-llmbox/llmbox.egg-info/dependency_links.txt
-llmbox/llmbox.egg-info/entry_points.txt
-llmbox/llmbox.egg-info/requires.txt
-llmbox/llmbox.egg-info/top_level.txt
