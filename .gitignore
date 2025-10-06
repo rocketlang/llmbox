@@ -1,10 +1,20 @@
+# Virtual environments
+.venv/
 __pycache__/
-*.py[cod]
-*.egg-info/
+*.pyc
+
+# Local configs
+.env
+.env.*
+backups/
+*.zip
+*.sha256
+
+# Build artifacts
 dist/
 build/
-.env
-.venv/
-.cache/
-.ipynb_checkpoints/
+*.egg-info/
+
+# Termux and OS files
 .DS_Store
+Thumbs.db
